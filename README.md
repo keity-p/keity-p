@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Keity de Moura Pinho
+- 👀 I’m interested in Data Analytics with Python and Financial Market
+- 🌱 I’m currently learning Data Science
+- 📫 How to reach me: keity.de.moura.pinho@gmail.com
