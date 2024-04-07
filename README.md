@@ -1,15 +1,21 @@
 ### 👋 Olá, eu sou a Keity!
-- **Tenho interesse em Análise de Dados com Python e Mercado Financeiro**
-- **Fui FX Trader em Prop Firms**
-- **Atualmente estou aprendendo Ciência de Dados**
+- **Faço Análises de Dados de qualquer área/setor;**
+- **Estou no útimo período da Graduação de Ciências Econômicas;**
+- **Fui FX Trader de Prop Firm;**
+- **Estou aberta à propostas!**
 
 ### 🔗 Entre em contato:
+
+**keity.de.moura.pinho@gmail.com**
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlJWFmhfSRrgdfgmqQjmhjtjlPVRrxdDHsMvvdzBXvnmgZTllvzqZpTVHHKVrKlbslLjHg)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keity-p/)
 
 
-### ⚡ Hard Skills
+### ⚡ Principais Hard Skills
+- **Python**
+- **SQL**
+- **Ferramentas de DataViz**
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
