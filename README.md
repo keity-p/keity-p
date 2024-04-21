@@ -4,12 +4,13 @@
 - **Fui FX Trader de Prop Firm;**
 - **Estou aberta à propostas!**
 
-### 🔗 Entre em contato:
+### 🔗 Contatos & Portfólio:
 
 **keity.de.moura.pinho@gmail.com**
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlJWFmhfSRrgdfgmqQjmhjtjlPVRrxdDHsMvvdzBXvnmgZTllvzqZpTVHHKVrKlbslLjHg)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keity-p/)
+[![Portfólio](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://sites.google.com/view/keity-p)
 
 
 ### ⚡ Principais Hard Skills
