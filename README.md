@@ -1,7 +1,7 @@
 ### 👋 Olá, eu sou a Keity!
-- **Atualmente trabalho como Engenheira de Dados Jr!**
-- **Estou fazendo pós-graduação em Engenharia de Dados;**
-- **Sou graduada em Ciências Econômicas;**
+- **Atualmente sou Engenheira de Dados!**
+- **Estou fazendo pós-graduação em Projetos em Cloud Computing;**
+- **Sou graduada em Ciências Econômicas e pós-graduada em Engenharia de Dados;**
 - **E também fui FX Trader de Prop Firm.**
 
 
